@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+          <br> 
+        <header>
+         <img id="logo" src="Logo.png" alt="logo" width="150" height="150">
+         <br>
+        <body style="text-align:center;"> 
+             <br>
+             <nav>
+             <a href="aboutmepage.html">About Me</a> 
+             <a href="contactinfo.html">Contact Page</a>
+            <a href="courses.html">Courses Info</a>
+            <a href="resume.html">Resume</a>
+            <a href="projects.html">Projects</a>
+            <a href="index.html">Home page</a>
+            </nav>
+        </header>
+
+        <title>Contact Page</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+        <body>
+            <h1>Contact Page</h1>
+            <p>
+            You can find me across several social media platforms that I have built 
+            and maintained over the years, including <strong>Instagram</strong>,
+             <strong>LinkedIn</strong>, and <strong>Facebook</strong>, among others. 
+            I enjoy connecting with people, sharing ideas, and growing my network 
+            through these communities.  
+            <br><br>
+            If you would like to get in touch directly, feel free to reach out to my
+            email at <a href="mailto:kadeskogman@gmail.com">kadeskogman@gmail.com</a> 
+            or you can contact my personal phone at
+             <a href="tel:+13192223333">(319) 222-3333</a>.  
+             I look forward to connecting and hearing from you soon!
+            </p>
+            <br>
+
+            <body style="text-align:center;"> 
+            <footer>
+  <p>
+    Thanks for stopping by! If you'd like to connect professionally, 
+    feel free to visit my 
+    <a href="https://www.linkedin.com/in/kade-skogman-78233332b/" target="_blank">
+     <img src="linkedin3.pdf" alt="icon" width="50" height="50">
+    </a>
+    to learn more about my background and experience.  
+    For direct inquiries or collaboration opportunities, you can reach me through my 
+    <a href="contactinfo.html">contact page</a>.  
+    I am always open to connecting, sharing ideas, or discussing new projects, lets stay in touch!
+  </p>
+        <br>
+        copyright 2003-2025
+    </footer>
+</html>    
