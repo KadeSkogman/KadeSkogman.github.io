@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kade Skogman's Portfolio</title>
 
+    <!-- Link to external CSS (must be in the same folder as this file) -->
     <link rel="stylesheet" href="styles.css">
 
     <style>
@@ -11,13 +13,15 @@
             background-color: lightgrey;
             text-align: center;
             font-family: Arial, sans-serif;
-        }
-        p.dotted {
-            border-style: dotted;
+            margin: 0;
+            padding: 0;
         }
         header, footer {
             margin-top: 20px;
             margin-bottom: 20px;
+        }
+        nav {
+            margin: 10px 0;
         }
         nav a {
             margin: 0 10px;
@@ -28,12 +32,25 @@
         nav a:hover {
             color: darkblue;
         }
+        main {
+            margin: 20px;
+        }
+        img {
+            border-radius: 8px;
+        }
+        footer {
+            font-size: 0.9em;
+            color: #333;
+        }
+        footer img {
+            vertical-align: middle;
+        }
     </style>
 </head>
 
 <body>
     <header>
-        <img id="logo" src="Logo.png" alt="logo" width="150" height="150">
+        <img id="logo" src="logo.png" alt="Logo" width="150" height="150">
         <nav>
             <a href="aboutmepage.html">About Me</a>
             <a href="contactinfo.html">Contact Page</a>
@@ -58,7 +75,7 @@
             Thanks for stopping by! If you'd like to connect professionally, 
             feel free to visit my 
             <a href="https://www.linkedin.com/in/kade-skogman-78233332b/" target="_blank">
-                <img src="linkedin3.png" alt="LinkedIn icon" width="50" height="50">
+                <img src="linkedin3.png" alt="LinkedIn icon" width="30" height="30">
             </a>
             to learn more about my background and experience.
             <br>
@@ -67,7 +84,7 @@
             <br>
             I’m always open to connecting, sharing ideas, or discussing new projects — let’s stay in touch!
         </p>
-        <p>&copy; 2003–2025</p>
+        <p>&copy; 2003–2025 Kade Skogman</p>
     </footer>
 </body>
 </html>
