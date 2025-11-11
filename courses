@@ -1,0 +1,126 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+          <br> 
+        <header>
+               <title>Courses</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+         <img id="logo" src="Logo.png" alt="logo" width="150" height="150">
+         <br>
+        <body style="text-align:center;"> 
+             <br>
+             <nav>
+            <a href="aboutmepage.html">About Me</a> 
+             <a href="contactinfo.html">Contact Page</a>
+            <a href="courses.html">Courses Info</a>
+            <a href="resume.html">Resume</a>
+            <a href="projects.html">Projects</a>
+            <a href="index.html">Home page</a>
+            </nav>
+        </header>
+
+        <body>
+            <h1 style="color:rgb(255, 255, 255);">Courses</h1>
+
+      <h2 style="color:rgb(255, 255, 255);">Welcome to my courses page, below you will
+            find a list of courses I have taken or classes 
+            im currently enrolled in at High Point University.</h2>
+  
+
+<table style="width:100%">
+  <tr>
+    <th>Course name</th>
+    <th>Semester</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>Human Communication</td>
+    <td> First Semester</td>
+    <td>Freshman</td>
+  </tr>
+  <tr>
+    <td>Research and Writing</td>
+    <td>Second Semester</td>
+    <td>Freshamn</td>
+  </tr>
+   <tr>
+    <td>Business Ethics</td>
+    <td>Second Semester</td>
+    <td>Freshamn</td>
+  </tr>
+  <tr>
+    <td>Media Law and Literacy</td>
+    <td>First Semester</td>
+    <td>Sophomore</td>
+  </tr>
+  <tr>
+    <td>Podcasting Workshop</td>
+    <td>First Semester</td>
+    <td>Sophomore</td>
+  </tr>
+  <tr>
+    <td>Techniques in Media Production</td>
+    <td>First Semester</td>
+    <td>Sophomore</td>
+  </tr>
+   <tr>
+    <td>Advertising and Consumer Culture</td>
+    <td>Second Semester</td>
+    <td>Sophomore</td>
+  </tr>
+  <tr>
+  <td>Digital Writing for Social Action</td>
+    <td>Second Semester</td>
+    <td>Sophomore</td>
+  </tr>
+  <tr>
+  <td>Foundation of Strategic Communication</td>
+    <td>Second Semester</td>
+    <td>Sophomore</td>
+  </tr>
+    <tr>
+  <td>Digital Art and Design</td>
+    <td>First Semester</td>
+    <td>Junior</td>
+  </tr>
+      <tr>
+  <td>Infographics</td>
+    <td>First Semester</td>
+    <td>Junior</td>
+  </tr>
+      <tr>
+  <td>Social Media & Analytics</td>
+    <td>First Semester</td>
+    <td>Junior</td>
+  </tr>
+     <tr>
+  <td>Copy Editing</td>
+    <td>Second Semester</td>
+    <td>Junior</td>
+  </tr>
+   <tr>
+  <td>Social Media Marketing Strategy</td>
+    <td>Second Semester</td>
+    <td>Junior</td>
+  </tr>
+</table>
+            <br>
+             <body style="text-align:center;"></body>
+
+          <footer>
+  <p>
+    Thanks for stopping by! If you'd like to connect professionally, 
+    feel free to visit my 
+    <a href="https://www.linkedin.com/in/kade-skogman-78233332b/" target="_blank">
+     <img src="linkedin3.pdf" alt="icon" width="50" height="50">
+    </a>
+    to learn more about my background and experience.  
+    For direct inquiries or collaboration opportunities, you can reach me through my 
+    <a href="contactinfo.html">contact page</a>.  
+    I am always open to connecting, sharing ideas, or discussing new projects, lets stay in touch!
+  </p>
+        <br>
+        copyright 2003-2025
+    </footer>
+</html>    
