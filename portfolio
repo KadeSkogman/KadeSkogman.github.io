@@ -1,63 +1,74 @@
-<!doctype html> 
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <link rel="stylesheet" href="styles.css">
+<head>
+    <meta charset="UTF-8">
+    <title>Kade Skogman's Portfolio</title>
+
+    <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="styles.css">
+
     <style>
         body {
             background-color: lightgrey;
+            text-align: center;
+            font-family: Arial, sans-serif;
         }
-        </style>
-            <title>Kade Skogmans Portfolio</title>
-            <meta charset="UTF-8">
-        </head>
+        p.dotted {
+            border-style: dotted;
+        }
+        header, footer {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: darkblue;
+        }
+    </style>
+</head>
 
-        <style>
-        p.dotted {border-style: dotted;} 
-        </style>
-        <br> 
-        <header>
-         <img id="logo" src="Logo.png" alt="logo" width="150" height="150">
-         <br>
-        <body style="text-align:center;"> 
-             <br>
-             <nav>
-              <a href="aboutmepage.html">About Me</a> 
-             <a href="contactinfo.html">Contact Page</a>
+<body>
+    <header>
+        <img id="logo" src="Logo.png" alt="logo" width="150" height="150">
+        <nav>
+            <a href="aboutmepage.html">About Me</a>
+            <a href="contactinfo.html">Contact Page</a>
             <a href="courses.html">Courses Info</a>
             <a href="resume.html">Resume</a>
             <a href="projects.html">Projects</a>
-            </nav>
-        </header>
-            </body>
-            <br>
-            <img src="professional.jpeg" alt="Headshot" width="300" height="450">
-            <br>
-            <p>Welcome to my portfolio page! This page was made for 
-            a class im currently enrolled in which is Website 
-            Development. My name is Kade Skogman and I will be
-            using this page to showcase things about myself. In 
-            this portfolio you can visit different pages ive made
-            that will give you information about how to contact me,
-            different courses ive taken, and how to contact me.
-            Thank you for visiting my portfolio!
-            </p> 
-            
-            <br>
+        </nav>
+    </header>
 
-        </body>
-   <footer>
-  <p>
-    Thanks for stopping by! If you'd like to connect professionally, 
-    feel free to visit my 
-    <a href="https://www.linkedin.com/in/kade-skogman-78233332b/" target="_blank">
-     <img src="linkedin3.pdf" alt="icon" width="50" height="50">
-    </a>
-    to learn more about my background and experience.  
-    For direct inquiries or collaboration opportunities, you can reach me through my 
-    <a href="contactinfo.html">contact page</a>.  
-    I am always open to connecting, sharing ideas, or discussing new projects, lets stay in touch!
-  </p>
-        <br>
-        copyright 2003-2025
+    <main>
+        <img src="professional.jpeg" alt="Headshot" width="300" height="450">
+        <p>
+            Welcome to my portfolio page! This page was made for a class I'm currently enrolled in, Website Development.
+            My name is <strong>Kade Skogman</strong> and I will be using this page to showcase things about myself. In 
+            this portfolio, you can visit different pages I've made that will give you information about how to contact me, 
+            different courses I've taken, and more. Thank you for visiting my portfolio!
+        </p>
+    </main>
+
+    <footer>
+        <p>
+            Thanks for stopping by! If you'd like to connect professionally, 
+            feel free to visit my 
+            <a href="https://www.linkedin.com/in/kade-skogman-78233332b/" target="_blank">
+                <img src="linkedin3.png" alt="LinkedIn icon" width="50" height="50">
+            </a>
+            to learn more about my background and experience.
+            <br>
+            For direct inquiries or collaboration opportunities, you can reach me through my 
+            <a href="contactinfo.html">contact page</a>.
+            <br>
+            I’m always open to connecting, sharing ideas, or discussing new projects — let’s stay in touch!
+        </p>
+        <p>&copy; 2003–2025</p>
     </footer>
-</html>    
+</body>
+</html>
