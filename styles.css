@@ -26,7 +26,7 @@ h1, h2, p {
     letter-spacing: 1px;
 }
 
-#logo {
+logo {
     text-align:left;
     padding-right:1200px ;
 }
@@ -96,7 +96,7 @@ main {
     margin: 20px;
 }
 img {
-    border-radius: 8px;
+    border-radius: 600px;
 }
 footer {
     font-size: 0.9em;
