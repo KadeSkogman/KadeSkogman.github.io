@@ -3,17 +3,11 @@
 <head>
     <meta charset="UTF-8" />
 
-    <link rel="stylesheet" href="styles-2.css" />
+    <link rel="finalexam" href="finalexam.css" />
 </head>
 
-    <div class="container">
-        <h3>About This Page</h3>
-        <p>
-            This page now demonstrates clean HTML with all styles moved to
-            an external stylesheet. You can 
-            <a href="#">click this link</a> to see the link styles.
-        </p>
-
+        <h3>final exam</h3>
+        
         <button>Click Me</button>
     </div>
 
